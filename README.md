@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sharyz119
+- 👋 Hi, I’m zixuan wang (shary)
 - 🌱 I’m currently learning Artificial Intelligence
 
 
