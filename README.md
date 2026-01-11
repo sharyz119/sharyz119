@@ -1,5 +1,4 @@
-- 👋 Hi, I’m zixuan wang (shary)
-- 🌱 I’m currently learning Artificial Intelligence
+- 👋 Hi, I’m zixuan wang (shary). Please visit my website to get know me.
 
 
 <!---
